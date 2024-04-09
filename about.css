@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+body{
+    background-color:white;
+    background-size: 100%;
+}
+.About{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.About h2{
+   margin-right: 450px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: right;
+}
+.profile img{
+    width: 200px;
+    float: left;
+    margin-top: 0;
+    border: 2px solid black;
+    margin-left: 100px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    mix-blend-mode: multiply;
+}
+.About p{
+    margin-left: 50%;
+    font-size: x-large;
+}
