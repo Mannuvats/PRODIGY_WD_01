@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: #eff4fd;
+    background-repeat:no-repeat ;
+    background-size: 100%;
+}
+.contact{
+    margin-left:40% ;
+    margin-top: 50px;
+    height: 90vh;
+}
+.contact h1{
+    /* text-align:center; */
+    margin-left: 8%;
+    color: rgb(82, 19, 3);
+    font-size: 2rem;
+}
+.img{
+    /* margin-top: 200px; */
+    /* margin-left: 8%; */
+}
+.img img{
+    width: 50px;
+    mix-blend-mode: multiply;
+    margin: 20px;
+    cursor: pointer;
+}
